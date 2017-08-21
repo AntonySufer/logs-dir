@@ -1,10 +1,10 @@
 {
-  "name": "logs",
-  "version": "1.0.0",
-  "description": "write logs",
-  "main": "./lib/index.js",
+  "name": "logs-dir",
+  "version": "1.0.1",
+  "description": "write logs dir",
+  "main": "index.js",
   "directories": {
-    "test": "write logs dir"
+    "test": "test"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
@@ -14,6 +14,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "antonysufer",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonySufer/logs.git"
+  },
+  "author": "AntonySufer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonySufer/logs/issues"
+  },
+  "homepage": "https://github.com/AntonySufer/logs#readme"
 }
