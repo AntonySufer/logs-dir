@@ -27,15 +27,16 @@ In Node.js:
 ```
 
 
-##result:<br>
- /_logs/error/year-month-day.txt <br>
-###error_content:<br>
+## result:created file<br>
+ /_logs/error/2018-08-21.txt <br>
+### error_content:<br>
  ---2017-8-21 11:6:32【发生错误】<br>
 
  ---2017-8-21 11:6:32【{"test":"test1"}】<br>
  
-
-
+## exp <br>
+![image](https://github.com/AntonySufer/logs/blob/master/img/exp.png)
+                                                
 ## Support
 
 Tested in Chrome 54-55, Firefox 49-50, IE 11, Edge 14, Safari 9-10, Node.js 6-7, & PhantomJS 2.1.1.<br>
