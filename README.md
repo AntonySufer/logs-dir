@@ -1,5 +1,12 @@
-1.适用于node工程 输出文件日志记录,日志会以 /_logs/xxx/年-月-日.txt形式输出  
+1.适用于node工程 输出文件日志记录
+  日志会以 /_logs/xxx/年-月-日.txt形式输出  
 ==== 
+```js
+ npm insatll logs-dir
+
+```
+
+
 ```js
  var logs = require('logs-dir');
 
