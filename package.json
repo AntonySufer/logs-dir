@@ -1,6 +1,6 @@
 {
   "name": "logs-dir",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "write logs dir",
   "main": "index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
